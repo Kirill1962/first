@@ -1,0 +1,32 @@
+[33mcommit e7b95a1f85a7fe01da7dc3acddca5c484a12a098[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 1c0ef4c 6b4ec1f
+Author: tsigan <qwerty@gmail.com>
+Date:   Tue Apr 20 15:37:34 2021 +0500
+
+    Merge branch 'dev'
+
+[33mcommit 6b4ec1fc9b2a2aab26192ea33bafa894813723b0[m[33m ([m[1;32mdev[m[33m)[m
+Author: tsigan <qwerty@gmail.com>
+Date:   Tue Apr 20 15:22:49 2021 +0500
+
+    first
+    q
+    git commit -m first
+
+[33mcommit 1c0ef4ca2ff63b62662fd09b60709b5c602b3552[m
+Author: tsigan <qwerty@gmail.com>
+Date:   Fri Apr 16 16:19:46 2021 +0500
+
+    third
+
+[33mcommit 06a55cd36f156f4faf8a571688a5f3e18cbcd5c6[m
+Author: tsigan <qwerty@gmail.com>
+Date:   Fri Apr 16 16:17:52 2021 +0500
+
+    second
+
+[33mcommit 1d918f9efafa972da8702316ed049f8ab1e7e94f[m[33m ([m[1;32mdev1[m[33m)[m
+Author: tsigan <qwerty@gmail.com>
+Date:   Fri Apr 16 16:12:10 2021 +0500
+
+    first
